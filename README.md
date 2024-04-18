@@ -18,7 +18,7 @@ Welcome to SoundBox, a simple yet powerful music player implemented using doubly
 
 To use SoundBox, download the executable file from the following link:
 
-[Download SoundBox](https://example.com/soundbox.exe)
+[Download SoundBox](https://github.com/Aycodez/SoundBox-A-music-player-implemented-using-a-doubly-linked-list-and-Queue/blob/main/SoundBox.rar)
 
 ## Usage
 
